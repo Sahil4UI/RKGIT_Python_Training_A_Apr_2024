@@ -1,0 +1,104 @@
+1.Python Intro
+Python is a high level general purpose programming language
+
+High Level - easy to understand and easy to implement
+
+General Purpose -
+1.App Development
+2.Web Development
+3.Game Development
+4. AI
+5. Automation Testing
+6. Ethical Hacking
+7. Etc…
+
+History:
+Python - 1991 - Guido Van Rossum
+He named it python because he was highly inspired
+By the circus show “Monty’s Python Flying Circus”
+
+Features of Python?
+1.High Level - easy to learn and easy to implement
+2.General Purpose
+3.Dynamically Typed Programming
+	type - dynamic
+   C: 
+       Int x =78; statically typed
+
+    Py:  
+       X= 12
+4.Python has its own collection of libraries
+5.Open Source
+6.Interpreted Programming
+Interpreter - it executes the program in Line by Line Manner
+Compiler - it executes the whole program at once.
+7.Multiparadigm
+Procedural (step wise), functional & Object Oriented
+
+
+2.variables  - 
+X = 15
+X is variable
+15 is constant
+
+Identifiers - Identifiers are the user defined names which are used to define variable, class, function etc
+1.Identifier’s name cannot be started with special character(except _) or numerical value
+2.Also identifiers name must not contain any space or special character except _.
+
+KEYWORDS - are the predefined words used for special functionalities.
+
+
+
+3.Data Types
+Number - int , float , complex
+Boolean
+None
+String
+
+Maths module
+
+4.Data Collection - List,Tuple,Dictionary
+Conditional Statements
+Loops
+
+
+
+
+Operators
+1.  Arithmetical +,-,/,*,%,//-floor div,**-power
+2. Assignment Operator  - =,+=,/=,*=,//=,&=,!=,etc
+3. Logical Operator  and or not
+4. Bitwise - logical , shifting
+5. Relational Operator >,<,>=,<=,!=,==
+6. Ternary Operator  (condition)?if true:if false
+7. Membership Operator - in , not in
+8. Identity Operator is , is not
+
+Blocks in Python? - Indentation
+X =15
+If X%2==0:
+    print(“even”)
+else:
+	print(“Odd”)
+
+Conditional Statements
+If 
+If else
+Ladder if else
+Nested else
+For else
+
+x = int(input("Enter No1:"))
+for i in range(2,x):
+    if x%i==0:
+        print("Not Prime")
+        break
+else:
+    print("Prime")
+
+
+
+
+
+
+
