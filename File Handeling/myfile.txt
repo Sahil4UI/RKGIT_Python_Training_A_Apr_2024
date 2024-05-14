@@ -1,0 +1,7 @@
+Data Science Life Cycle
+1.Data Collection
+2.Data Preprocessing
+->handle missing values
+->remove duplicates
+->label encoding
+->feature scaling
